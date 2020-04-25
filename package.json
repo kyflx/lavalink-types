@@ -1,0 +1,13 @@
+{
+  "name": "@kyflx-dev/lavalink-types",
+  "version": "1.0.0",
+  "description": "Interfaces & Types for Lavalink.",
+  "main": "",
+  "types": "index.d.ts",
+  "author": "Kyflx Team",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.13.2",
+    "typescript": "^3.8.3"
+  }
+}
