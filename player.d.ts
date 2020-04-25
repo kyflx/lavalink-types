@@ -39,7 +39,7 @@ export type Event =
   | TrackStartEvent
   | TrackEndEvent
   | TrackExceptionEvent
-  | TrackStartEvent
+  | TrackStuckEvent
   | WebSocketClosedEvent;
 
 export interface PlayerEvent {

@@ -1,6 +1,6 @@
 {
   "name": "@kyflx-dev/lavalink-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Interfaces & Types for Lavalink.",
   "main": "",
   "types": "index.d.ts",
