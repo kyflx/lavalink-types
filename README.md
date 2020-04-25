@@ -10,5 +10,5 @@ These are typings for lavalink.
 ## Installation
 
 ```bash
-npm install @kyflx-dev/jagtag
+npm install @kyflx-dev/lavalink-types
 ```
