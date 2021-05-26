@@ -45,6 +45,10 @@ export type Event =
 export interface PlayerEvent {
   op: "event";
   /**
+   * The guild this player belongs to.
+   */
+  guildId: string;
+  /**
    * The type of player event.
    */
   type: PlayerEventType;
